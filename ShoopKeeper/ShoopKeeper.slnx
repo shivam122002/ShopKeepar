@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ShoopKeeper.Application/ShoopKeeper.Application.csproj" Id="950e8812-4006-4f0f-8d4d-f8ace78f1309" />
+  <Project Path="ShoopKeeper.Infrastructure/ShoopKeeper.Infrastructure.csproj" Id="9ea3710b-cba7-4075-a5e2-25c508a97ac9" />
+  <Project Path="ShoopKeeper.UI/ShoopKeeper.UI.csproj" Id="69d75dcd-ea85-4c47-ba2a-77a615440802" />
+  <Project Path="ShopKeeper.Domain/ShopKeeper.Domain.csproj" Id="5f4dd342-ffb6-4e5e-950f-d5a2233e3d38" />
+</Solution>
